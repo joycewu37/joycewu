@@ -1,5 +1,5 @@
 # IBM
-![IBM Logo](/ibm.png)
+![IBM Logo](/ibm.png =350px)
 ## June 2020 - December 2020
 
 * Constructed Elasticsearch, Kibana, Logstash, & Filebeat pipeline to parse logging & tracing streams from 7 services
