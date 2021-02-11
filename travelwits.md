@@ -1,5 +1,5 @@
 # Travelwits
-![Travelwits Logo](/travelwits.png)
+![Travelwits Logo](/images/travelwits/travelwits.png)
 ## May 2019 - August 2019
 
 * Diagnosed UI/UX issues throughout website, presented issues by priority to cofounder
